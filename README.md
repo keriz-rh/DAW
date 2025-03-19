@@ -19,7 +19,7 @@ Este proyecto usa Docker para ejecutar una aplicación Java y una base de datos 
    ```
    docker-compose up
    ```
-3. Acceder a la aplicación en: [http://localhost:8080](http://localhost:8080)  
+3. Acceder a la aplicación en: [http://localhost:8080](http://localhost:8080) o en [http://localhost:8080/api/test/algo@gmail.com](http://localhost:8080/api/test/algo@gmail.com)  
 
 ## Detener los contenedores  
 
